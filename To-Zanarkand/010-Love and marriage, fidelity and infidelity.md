@@ -5,7 +5,7 @@
 
 婚姻，名词，（英语：marriage）是一种人际间取得亲属关系的社会结合或法律约束。根据观念和文化的不同，通常以一种亲密或性的表现形式被承认。
 
-## [话说婚姻](https://github.com/liweikun123/World-watching/blob/main/%E5%AE%B6%E6%97%8F%E5%8E%86%E5%8F%B2/Family_Affairs_Marriage.markdown)
+## [话说婚姻](https://github.com/liweikun123/To-Huanghelou/blob/main/History/Family/Marriage.md)
 
 # 忠贞与出轨
 

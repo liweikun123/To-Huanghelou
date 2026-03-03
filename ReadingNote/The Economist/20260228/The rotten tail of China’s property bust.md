@@ -119,4 +119,5 @@ In the Zhongao project office, the manager working to get that development back 
 
 **你是否需要我针对文章中的某个特定长难句进行深度语法拆解？**
 
+https://gemini.google.com/share/4131d3c6fb31
 

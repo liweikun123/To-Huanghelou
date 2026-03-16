@@ -56,3 +56,123 @@ A more compelling explanation is that the Communist Party fears the political fa
 China’s leaders, sometimes celebrated for their technocratic brilliance, have consistently been slow to correct obvious mistakes. They were too hesitant to end the one-child policy, to deflate the property bubble and to retreat from their zero-covid strategy. Once again, they face a slow-moving but easily visible problem: the transfer of vast riches. The danger is that they wake up in a decade or two to see that they have nurtured a permanent wealthy elite on top of a disillusioned society. ■
 
 中国的领导者，有时因他们的技术官僚而被赞扬，一直坚持着缓慢的去改正这些明显的错误。他们非常犹豫去结束一孩化的计划生育政策，去给房地产泡沫放气并放弃他们的清零战略。一旦重复，他们面对一个缓慢移动但是很容易看见的问题：财富大量的逃向国外。这会有一个危险，他们会在最近的一二十年里觉醒，看到他们在这个幻灭的社会顶端培育了一个永恒的财富精英阶层。
+
+**翻译问题审查与修改建议**
+
+我逐段对比了你提供的原文和译文（整体翻译已很用心，忠实度高，语气也抓住了《经济学人》的讽刺感）。但存在**10处明显问题**（包括事实错误、词义偏差、句子不通顺、漏译/误译），还有一些小毛病（如打字错、awkward phrasing）。我按出现顺序列出**重大问题**（优先修正），并给出**修正版** + **理由**。次要小问题我汇总在最后。
+
+### 重大问题修正（必改，否则意思走样）：
+
+1. **原文**：average household’s assets were worth barely $1,500  
+   **你的译文**：平均的房产价格仅仅相当于今天的1500美元。  
+   **问题**：严重事实错误！不是“房产价格”（house prices），而是“平均家庭总资产”（包括房产、存款、股票等全部财富）。  
+   **修正**：1978年，在中国经济腾飞前夕，按今天币值算，平均家庭资产仅值约1500美元。
+
+2. **原文**：Of those worth at least 5bn yuan ($720m)  
+   **你的译文**：他们送拥有的财富至少价值72亿美元  
+   **问题**：打字错（“送”→“所”）+ 数字错（5bn yuan ≈ 720 million USD，不是72亿）。  
+   **修正**：在身家至少50亿人民币（约7.2亿美元）的富翁中……
+
+3. **原文**：the transfer of vast riches.（最后一段）  
+   **你的译文**：财富大量的逃向国外。  
+   **问题**：重大误译！这里指“巨额财富的代际转移”（inheritance），不是资本外逃（外逃是前文官员担心的，不是本文结尾问题）。  
+   **修正**：……他们面对一个缓慢但显而易见的问题：巨额财富的代际转移。
+
+4. **原文**：political fallout  
+   **你的译文**：政权旁落  
+   **问题**：fallout 不是“政权倒台”，而是“政治后果/反弹/附带损害”。  
+   **修正**：共产党惧怕由此引发的政治反弹。
+
+5. **原文**：more inclined to search out tax loopholes than to strive or innovate.  
+   **你的译文**：更倾向于寻找税收漏洞而不是去努力（strive）和创造的阶层。  
+   **问题**：漏了“creating a class”（正在造就一个阶层）。  
+   **修正**：不断增长的世袭财富正在造就一个阶层——他们更倾向于钻税收漏洞，而不是奋斗或创新。
+
+6. **原文**：bizarre as it might sound  
+   **你的译文**：这听起来很神奇  
+   **问题**：语气偏了（原文是“听起来虽荒谬/奇怪”）。  
+   **修正**：听起来虽荒谬……
+
+7. **原文**：partial tax haven  
+   **你的译文**：潜在的避税港  
+   **问题**：不够精准。  
+   **修正**：某种程度上的避税天堂。
+
+8. **原文**：The government, devoted to “common prosperity”, is shockingly insouciant about what that will mean.  
+   **你的译文**：这个致力于实现共同繁荣的政府，对于这个情况便显出令人震惊的漫不经心。  
+   **问题**：句子稍拗口，“便显出”不自然。  
+   **修正**：致力于“共同繁荣”的政府，对此却表现出令人震惊的漫不经心。
+
+### 其他小问题汇总（建议优化，不影响大意）：
+- “广泛的贫困” → 改“普遍贫困”（widespread = 普遍存在）
+- “令人恼火（Vexing）的情况” → 改“棘手的部分”（vexing 更偏“麻烦/头疼”）
+- “飞速的衰老” → 改“迅速老龄化”
+- “如同雨后春笋般的出现” → 保留，但可精简为“如雨后春笋般涌现”
+- “龙生龙凤生凤老鼠的儿子会打洞” → 很妙（对应“amniotic fluid”调侃），但可加括号说明：（即“投对胎”）
+- “一孩化的计划生育政策” → 统一用“独生子女政策”（文章前后一致）
+- “政权旁落”已改；“幻灭的社会”很好。
+
+**完整修正建议**：把以上8处改掉后，你的译文就**90%达标**了（剩下的是润色）。如果你需要我给出**整篇文章的最终 polished 译文**（全改版），直接说一声，我一键输出。
+
+---
+
+**第二部分：文章常用难词、固定短语搭配、固定句式梳理**
+
+我按**难词 / 固定短语 / 句式**分类，挑出文章里最常出现或最有《经济学人》特色的（附原文例句 + 推荐译法 + 为什么难）。这些是你以后读类似文章的“武器库”。
+
+### 1. 难词（核心概念词）
+- **conjure** (vast wealth out of poverty)：变魔术般创造 → “从普遍贫困中变戏法般创造出巨额财富”（强调“奇迹般快速”）
+- **vexing**：棘手的、令人头疼的（不是单纯恼火）
+- **trajectory**：发展轨迹 / 路径（政策常用）
+- **insouciant**：漫不经心、无忧无虑（此处带贬义：漠不关心）
+- **windfalls**：意外之财 / 横财
+- **inheritocracy**（自造词）：世袭精英制 / 继承统治（对比 meritocracy 精英制）
+- **flout**：公然违抗 / 蔑视（政策）
+- **abide by**：严格遵守
+- **inveterate** optimists：根深蒂固的乐观主义者
+- **pessimism**：悲观情绪（与optimism对仗）
+- **rat race**：老鼠赛跑 / 激烈无休止的竞争（职场/社会）
+- **ebb**：退潮、减弱（go-getter spirit may ebb）
+- **Thatcherite**：撒切尔式的（反福利、强调个人责任）
+- **handouts**：福利救济 / 政府施舍（贬义）
+- **ingrained**：根深蒂固
+- **glaring hole**：显而易见的漏洞
+- **riddled with**：布满、充斥（exemptions）
+- **hobbled**：受阻、举步维艰
+- **glacial pace**：冰川速度（极慢）
+- **bedevilled**：困扰、折磨
+- **pervasive graft**：普遍腐败 / 贪污
+- **technocratic**：技术官僚的
+- **disillusioned**：幻灭的、失望透顶的
+
+### 2. 固定短语 / 搭配（经济学人高频）
+- on the eve of…：在……前夕
+- in line for windfalls：有望获得意外之财 / 排队等横财
+- sprung up like mushrooms：如雨后春笋般涌现
+- more inclined to A than to B：更倾向于A而非B
+- represents an abrupt transition from… to…：标志着从……到……的突然转变
+- add to economic imbalances：加剧经济失衡
+- moved at a glacial pace on…：在……上推进速度如冰川
+- cite the fear that…：以……为由（官员常用借口）
+- political fallout：政治反弹 / 后果
+- come clean：坦白交代 / 公开资产
+- pre-emptive wave of…：提前引发的……浪潮
+- for all his power…：尽管他权力再大……
+- wake up to see that…：醒悟过来发现……
+
+### 3. 固定句式（高分表达模板）
+- **Despite X’s talk of Y, Z is woefully behind the curve on…**  
+  尽管习近平高谈……，但官方思维在……上可悲地落后于时代。
+- **It has a … moral objection to …, worrying that they will…**  
+  它对……持有……式的道德反对，担心这会……
+- **It would instead prefer A, whereby B.**  
+  它更愿意依靠A，由此实现B。
+- **The solution need not be radical. China should focus on…**  
+  解决之道不必激进。中国应聚焦于……
+- **Why the delay? Some officials cite the fear that… Neither argument is persuasive.**  
+  为什么拖延？一些官员称……但这两个理由都站不住脚。
+- **A more compelling explanation is that…**  
+  更合理的解释是……
+- **Once again, they face a slow-moving but easily visible problem… The danger is that they wake up… to see that…**  
+  他们再次面对一个缓慢但显而易见的问题……危险在于，他们在一二十年后醒悟，发现自己……
+

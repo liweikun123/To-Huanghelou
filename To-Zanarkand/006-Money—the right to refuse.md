@@ -8,7 +8,7 @@
 ## 私有财产塑造独立人格和自由意志
 这一点上我十分认可易中天老师的观点：
 
-> 这是我的破房子，风能进雨能进，国王不能进。
+> 这是我的破房子，风能进，雨能进，国王不能进。
 
 [私有财产塑造独立人格和自由意志](https://github.com/liweikun123/World-watching/blob/main/videotoblog/speech/%E6%98%93%E4%B8%AD%E5%A4%A9/%E4%B8%AA%E4%BA%BA%E7%A7%81%E6%9C%89%E8%B4%A2%E4%BA%A7%E7%A5%9E%E5%9C%A3%E4%B8%8D%E5%8F%AF%E4%BE%B5%E7%8A%AF.md),一个人只有当他拥有独立的财产，他才可能有独立的人格。后来再看老梁的视频，[发现他们的观点惊人的一致](https://github.com/liweikun123/World-watching/blob/main/videotoblog/video/%E8%80%81%E6%A2%81/%E8%B7%B5%E8%B8%8F%E7%A7%81%E6%9D%83%20%E6%96%87%E7%89%A9%E6%B5%81%E5%A4%B1%E4%B9%8B%E6%A0%B9.md)，但是现在我们国家的这些**知识分子**和**新闻评论员**的观点，甚至要翻墙出来才能看，真的是莫大的讽刺。
 

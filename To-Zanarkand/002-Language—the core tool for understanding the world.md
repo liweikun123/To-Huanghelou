@@ -55,11 +55,11 @@
 这是因为一句话说话的语调会影响这句话的意思，反问句和陈述句往往表明了完全相反的意思。在较为嘈杂的环境中，我漏掉了语调的信息，所以理解错误。
 如果我们使用的是英文，It is not a parking area. 和 Is it a parking area?词语的顺序也会发生变化，加上词语顺序的信息可以帮助听者进行理解，那么信息传递的准确度会提升。
 
-推荐：语言如何改变我们的思考方式：
+## 语言如何改变我们的思考方式：
 
-TED 演讲：Lera Boroditsky - How language shapes the way we think
+TED 演讲：[Lera Boroditsky - How language shapes the way we think](https://www.youtube.com/watch?v=RKK7wGAYP6k)
 
-视频地址：https://www.youtube.com/watch?v=RKK7wGAYP6k
+Leah's Diary 莉雅老师:[How Language Shapes The Way You Think](https://www.youtube.com/watch?v=xIGCEKtobd4)
 
 
 ## ~~英语学习~~   用英语！

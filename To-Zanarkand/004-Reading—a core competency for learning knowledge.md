@@ -198,7 +198,9 @@
 
 《悲惨世界》
 
-莎士比亚系列：《哈姆雷特》、《堂吉诃德》
+莎士比亚系列：《哈姆雷特》
+
+《堂吉诃德》
 
 《神曲》但丁
 
@@ -250,7 +252,7 @@
 
 《national geographic》
 
-《The Economicist》
+《The Economist》
 
 《Time》
 

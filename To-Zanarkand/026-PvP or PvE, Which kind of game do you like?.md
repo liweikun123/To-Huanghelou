@@ -1,7 +1,41 @@
 # PvP PvE
-PvP refers to Player vs Environment.This is where the player in a video game competes against the game world and the computer, not other players. 
+PvE refers to Player vs Environment.This is where the player in a video game competes against the game world and the computer, not other players. 
 
-PvE refers to Player vs Player.Think of games where you compete with other players like, League of Legends. This is when the main opponents you’ll be facing are other humans. These humans might be right next to you in the case of titles like fighting games, or they could be on the opposite side of the world in turn-based strategy PvP games. 
+PvP refers to Player vs Player.Think of games where you compete with other players like, League of Legends. This is when the main opponents you’ll be facing are other humans. These humans might be right next to you in the case of titles like fighting games, or they could be on the opposite side of the world in turn-based strategy PvP games. 
 
-## 
+## 这是一个粗略的游戏分类
+PvE 类型的游戏可以理解为游戏设计者给玩家出了一个难题，玩家需要运用有限的游戏内资源去解决这个问题，实现通关，主要的单机游戏及主机游戏都是属于这个类型，比较经典的有《艾尔登法环》、《暗黑地牢》、《饥荒》、《缺氧》、《黑神话悟空》、《古墓丽影》等等
+
+PVP 类型的游戏可以理解为游戏设计者设计了一个“公平的”环境，让两方玩家相互竞争，最后只有一边可以获得胜利，比较经典的有《魔兽争霸3》、《星际争霸2》、《DOTA2》、《英雄联盟》、《CS2》、《彩虹6号》等等
+
+还有的游戏是可以多个“P”来对抗“E”的，比如《双人成行》、《A way out》、《杀戮尖塔》的联机版本、各种MMORPG里面的组团副本等等。
+
+还有的游戏是PvE、PVP两种属性都有，比如以《魔兽世界》为代表的MMORPG里面，既有打怪升级的PVE模式，也有部落阵营和联盟阵营的对战PVP模式。有一些单机游戏也可以用作PVP，比如《文明6》可以一个人静静的玩，也可以玩联机对战模式。
+
+## 回忆恋爱往事
+后来问过艾欣，她当时选择和我在一起的一个很重要原因就是，我带她体验了很多她以前从来没有玩过的事物，尤其是各种各样的“游戏”。
+
+但出乎我的意料的是，我和她最先发生激烈的争论和冲突，我第一次大声的“指责”她，就发生在我带她玩《DOTA2》这款游戏上。DOTA2这款游戏是一个5v5的对战类网游，玩家需要操控一名英雄来击败对手，推掉对方主基地的一方可以取得胜利。一般的英雄都有4个技能，默认的快捷键是Q\W\E\R。当时艾欣从众多的英雄中选择了一个名为“矮人直升机”的英雄让我教他怎么玩，在熟悉英雄技能的过程中，我不停的说操作英雄释放"1"技能，就是第一个技能火箭弹幕去打伤害，但是她一直不按，我很是费解，后来才知道，艾欣听成了释放“E”技能高射火炮，也很费解我为什么会一直说，她明明已经释放了这个技能。实战了两次之后，由于完全没有游戏体验，艾欣很快就放弃了这个游戏。艾欣后来对我说，不明白我为什么这么激动，当时夏威一带她玩的DOTA2的时候，就是把她放在一边，完全不管他，她就觉得玩的很开心。
+
+为什么我会着急呢？我也在反思这个事情。好为人师的我，从小到大都很想和他人分享我所获得的快乐，但是有的时候我确实没有意识到，有些我觉得都不是困难的困难，对于其他人来说却是难以跨越的天堑。就比如电脑游戏，是需要鼠标和键盘同时使用的，由于艾欣在小时候没有家用电脑，打字或是玩游戏的时候都需要考虑哪个字母按键在哪个位置，《dota2》、《cs》这种电子竞技化成熟的游戏，对抗难度极大，非常考验鼠标和键盘协同配合，1秒钟的时间足以分出胜负，如果键盘上的按键都没有熟练，这种类型的游戏玩起来确实是十分的痛苦。而这个问题我在教艾欣玩这个游戏之前完全没有意识到，小学时我就有机会接触到家里的私人电脑，小学5年级的时候就和叶阳一起去网吧的我，不说键盘用的很好，起码能称得上是很熟悉了。
+
+再后来我发现，艾欣不喜欢玩《DOTA2》、《CS》并不仅仅是键盘熟练度的问题，而是大部分高强度对抗类型的PVP游戏比如武汉麻将、斯诺克，高操作难度PVE类型的魂系游戏《艾尔登法环》、《黑神话悟空》，艾欣都不喜欢玩。据我的观察，受她亲睐的游戏有低强度休闲化对抗的《王者荣耀》、线上日本麻将，或是节奏不那么快的PVE，比如《文明6》、《饥荒》、《缺氧》、《星露谷物语》、《潜水员戴夫》、《杀戮尖塔》等。
+
+## 喜欢的游戏类型很能反映一个人的性格
+男性偏爱竞争类的游戏，女性偏爱休闲养成类的游戏，这其实是刻在了人类基因密码当中。
+
+有的时候看他喜欢玩什么类型的游戏，也能看出一个人对生活的态度。
+
+
+
+
+
+
+
+
+
+
+
+
+
 

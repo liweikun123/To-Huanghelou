@@ -81,3 +81,6 @@
 信息收集能力不是为了让你成为一个事事驳倒别人的‘杠精’，而是为了让你在这个信息过载甚至充满谎言的世界里，拥有不被操纵的自由。
 
 别人给你喂什么，你就吃什么，那是饲养场的动物；自己去寻找水源和猎物，才是独立行走的人。
+
+## 参考读物
+[和菜头：信源-如何打造自己的信源白名单](https://github.com/liweikun123/To-Huanghelou/blob/main/ReadingNote/Information%20Sources:%20How%20to%20Build%20Your%20Own%20Whitelist%20of%20Information%20Sources.md)

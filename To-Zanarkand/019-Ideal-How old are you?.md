@@ -30,6 +30,118 @@
 ## 理想是什么？我的理想是什么？
 是什么呢？我曾经的理想是什么呢？我是什么时候忘记了自己的理想呢？
 
+## Ask forgiveness, not permission
+如何才能实现自己的“理想”，其实很简单——去做就可以了。
+
+最近在经济学人上面读的一篇文章，是写内控型人格的，我看了之后觉得内控型人格可以实现自己理想的可能远远大于外控型人格，原文如下：
+
+这篇《经济学人》（2026年8月27日刊）Bartleby 专栏文章题目为 **“The quality you should most wish for your children”**（你最应该希望孩子拥有的品质）。
+
+文章围绕心理学概念 **“控制点”（Locus of control）** 展开，探讨了具备**内控型倾向（Internal locus of control，即强大的主体性与自主控制感）** 如何在求职、理财、育儿、创业乃至企业 AI 转型中带来深远优势，并为管理者如何激发员工的主动性提供了建议。
+
+以下为您奉上**逐句对照翻译**与**高亮重点词汇深度解析**：
+
+---
+
+### 📄 逐句对照翻译
+
+#### 图 1：控制点与自主意识（Agency）的引入
+
+* **栏目/主标题**：Business | Bartleby: The quality you should most wish for your children
+* **翻译**：商业 | 巴特比专栏：你最应该希望孩子拥有的品质
+* **副标题**：*The benefits of having an internal locus of control*
+* **翻译**：*拥有内控型控制点的好处*
+* **原文**：If you could bestow any quality on your children, which one would you pick?
+* **翻译**：如果你能赋予孩子任何一种品质，你会选择哪一种？
+* **原文**：Great intelligence? Empathy for humanity? Much greater respect for their parents? The ability to pass a fridge without opening it?
+* **翻译**：超凡的智商？对人类的同理心？对父母多得多的尊重？还是经过冰箱却能忍住不打开的能力？
+* **原文**：Deborah Cobb-Clark, an economist at the University of Sydney, has a different answer: an internal locus of control.
+* **翻译**：悉尼大学的经济学家德博拉·科布-克拉克（Deborah Cobb-Clark）给出了不同的答案：内控型控制点。
+* **原文**：The concept of a locus of control was developed in the 1960s by a psychologist with the tremendous name of Julian Rotter.
+* **翻译**：控制点的概念由心理学家朱利安·罗特（Julian Rotter，名字相当响亮）于 20 世纪 60 年代提出。
+* **原文**：It is closely linked to the idea of agency.
+* **翻译**：它与“主体性”（或译能动性、自主掌控感）的概念密切相关。
+* **原文**：People with an internal locus of control believe that they are able to shape the world around them;
+* **翻译**：具有内控型控制点的人相信，自己能够塑造周围的世界；
+* **原文**：those with an external locus of control tend to think that luck, destiny or other people determine their fate.
+* **翻译**：而外控型控制点的人则倾向于认为，运气、命运或他人决定了自己的命运。
+
+---
+
+#### 图 2：控制点对个人、育儿与储蓄的影响
+
+* **原文**：It turns out that being an internal is pretty useful.
+* **翻译**：事实证明，作为一个内控型的人相当有用。
+* **原文**：It motivates effort: one study by Ms Cobb-Clark and her co-authors looked at a cohort of newly unemployed people in Germany, and found that people with a more external locus of control searched less intensively for work than internals.
+* **翻译**：它能激发努力：科布-克拉克女士及其合作者的一项研究观察了德国群体中的新近失业人员，发现外控倾向较强的人找工作的积极性明显低于内控型人群。
+* **原文**：Why spend time hunting for jobs, after all, if outcomes are disconnected from actions?
+* **翻译**：毕竟，如果结果与行动脱节，为什么还要花时间去找工作呢？
+* **原文**：Externals also had lower reservation wages, the minimum pay they were prepared to accept for a job.
+* **翻译**：外控型人群的保留工资（即他们愿意接受一份工作的最低薪资）也更低。
+* **原文**：An internal locus is linked to self-control: another paper concluded that households with a greater sense of agency save more of their wealth.
+* **翻译**：内控型倾向与自控力息息相关：另一篇论文得出结论，自主掌控感更强的家庭能储蓄更多财富。
+* **原文**：It helps turn intention into action, too, seeming to prompt people with entrepreneurial aspirations to actually take the leap and become a founder.
+* **翻译**：它还有助于将意图转化为行动，似乎能促使有创业抱负的人真正迈出那一步，去成为创始人。
+* **原文**：Being an internal also seems to help your descendants.
+* **翻译**：成为内控型人群似乎也有助于你的后代。
+* **原文**：A paper by Warn Lekfuangfu of Universidad Carlos III de Madrid and her co-authors found that, other things being equal, the locus of control of expectant mothers is correlated with the effort they put into active parenting.
+* **翻译**：马德里卡洛斯三世大学的沃恩·莱克芳富（Warn Lekfuangfu）及其合作者的一篇论文发现，在其他条件相同的情况下，准妈妈的控制点与其在积极育儿方面投入的精力呈正相关。
+* **原文**：Internals are more likely to think that time spent developing the skills of their sprogs will pay off.
+* **翻译**：内控型母亲更有可能认为，花时间培养孩子的技能会取得回报。
+* **原文**：Externals are more likely to think: “Little Rodney is just a helpless plaything of the gods.”
+* **翻译**：外控型母亲则更可能想：“小罗德尼不过是神灵手中无助的玩物罢了。”
+* **原文**：The locus of control exists on a spectrum.
+* **翻译**：控制点是一个连续的光谱分布。
+* **原文**：Ms Cobb-Clark worries most about the small minority of people who never really develop a sense of their own agency at all.
+* **翻译**：科布-克拉克女士最担心的是极少数从未真正培养出自主掌控感的人。
+* **原文**：But many more routinely underestimate their power to exert control over their circumstances.
+* **翻译**：但更多的人则是在日常中例行性地低估了自己对环境施加控制的能力。
+
+---
+
+#### 图 3：突破现状、推动改变与企业 AI 应用
+
+* **原文**：In her pointedly titled book, “You Can Just Do Things”, Cate Hall cites research by Francis Flynn and Vanessa Lake, then of Columbia University, showing that people misjudge how likely others are to respond to requests for help.
+* **翻译**：凯特·霍尔（Cate Hall）在她那部书名针砭时弊的书《你尽管去做》（*You Can Just Do Things*）中，引用了当时任职于哥伦比亚大学的弗朗西斯·弗林（Francis Flynn）和瓦内萨·莱克（Vanessa Lake）的研究，表明人们低估了他人对求助请求做出回应的可能性。
+* **原文**：In a series of experiments, the researchers asked participants how many strangers they would have to approach to complete a range of tasks, from filling out questionnaires to borrowing a mobile phone to make a call.
+* **翻译**：在一系列实验中，研究人员询问参与者需要接触多少陌生人才能完成一系列任务，从填写问卷到借用手机打电话。
+* **原文**：The actual numbers were much lower than the estimates, not because people are unbelievably nice, but because it is awkward to reject a direct request for help.
+* **翻译**：实际所需人数远低于估计值，这并非因为人们好得不可思议，而是因为当面拒绝直接的求助请求会让人尴尬。
+* **原文**：In another experiment, Steven Levitt of the University of Chicago got people who were dithering over a big decision to toss a virtual coin to help them make their choice.
+* **翻译**：在另一项实验中，芝加哥大学的斯蒂芬·列维特（Steven Levitt）让那些在大决策前犹豫不决的人掷一枚虚拟硬币来帮助他们做出选择。
+* **原文**：A toss in favour of change made it much more likely that someone would go ahead and break with the status quo.
+* **翻译**：支持改变的抛硬币结果，大大增加了人们果断行动并打破现状的可能性。
+* **原文**：Those who did reported being much happier than those who did not.
+* **翻译**：那些做出改变的人报告的幸福感远高于没有改变的人。
+* **原文**：That suggests many people who would benefit from change lack the sense of agency to seize control of their own destiny without a nudge.
+* **翻译**：这表明，许多原本能从改变中获益的人，如果缺少外界的推动（nudge），就缺乏掌控自己命运的自主感。
+* **原文**：If an external locus of control is holding back individuals, it could be hindering organisations, too.
+* **翻译**：如果外控型控制点在阻碍个人发展，它也可能在阻碍组织的前进。
+* **原文**：A new paper, co-written by Feng Xu of the Harbin Institute of Technology, looks at adoption of artificial intelligence by manufacturing firms in Shenzhen.
+* **翻译**：哈尔滨工业大学的许峰（音译）参与合撰的一篇新论文，研究了深圳制造业企业对人工智能的采用情况。
+* **原文**：The researchers find that internals, who are more likely to see AI as a skill to master, are happier to share knowledge about their experiences of it.
+* **翻译**：研究人员发现，内控型员工更有可能将 AI 视为一项需要掌握的技能，因而更乐意分享他们使用 AI 的经验。
+* **原文**：Externals, who are more likely to see the technology as a threat to their job security, are more prone to hiding information.
+* **翻译**：而外控型员工则更有可能将该技术视为对其工作稳定性的威胁，因而更有可能隐瞒信息。
+
+---
+
+#### 图 4：管理启示、企业文化与防栏
+
+* **原文**：What should managers do about this?
+* **翻译**：管理者对此应该怎么做？
+* **原文**：They could test for locus of control in hiring processes: Andrej Karpathy, a quotable AI researcher, has said that as a trait, agency is both more powerful and scarcer than intelligence.
+* **翻译**：他们可以在招聘过程中测试控制点属性：备受引用的 AI 研究员安德烈·卡帕斯（Andrej Karpathy）曾表示，作为一种特质，“自主掌控力”（agency）比智商更强大，也更稀缺。
+* **原文**：Compensation and promotion systems should reward achievement as a matter of course, but that link can be made more explicit.
+* **翻译**：薪酬和晋升体系理所当然应该奖赏绩效，但这种关联可以打造得更加清晰明确。
+* **原文**：Cultural norms can also be set to prompt people towards taking action.
+* **翻译**：企业文化规范也可以被设定为鼓励人们采取行动。
+* **原文**：“Ask forgiveness, not permission” is a mantra that can have some pretty ugly consequences if you have lots of high-agency people and no guardrails.
+* **翻译**：“先斩后奏”（请求原谅，而非请求许可）是一句座右铭，如果你拥有许多高自主性的员工却没有设置防栏（护栏），可能会带来相当糟糕的后果。
+* **原文**：But the idea behind it is sound. ■
+* **翻译**：但其背后的核心理念是合理的。■
+
+
 # [一席杜素娟：理想是人生的彈簧](https://www.youtube.com/watch?v=8tBs1wobWC8)
 
 ## 1. 边缘的自由与“理想”的拷问

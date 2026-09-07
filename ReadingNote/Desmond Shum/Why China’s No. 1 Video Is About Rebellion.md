@@ -21,7 +21,7 @@ But also because sentiment is shifting in ways we rarely saw when the economy se
 Over the past few days, a 26-minute AI-generated historical short film has gone viral in China.  
 在过去几天里，一部26分钟的AI生成历史短片在中国爆红网络。
 
-《妖异簿·问苍生》 (The Book of Strange Phenomena: Ask the People), uploaded to Bilibili around mid-August by a relatively small creator, has received more than 7 million views and is now No. 1 on Bilibili’s overall hot list.  
+[《妖异簿·问苍生》](https://www.bilibili.com/video/BV1rHbY6MEB9/?spm_id_from=333.1007.top_right_bar_window_history.content.click) (The Book of Strange Phenomena: Ask the People), uploaded to Bilibili around mid-August by a relatively small creator, has received more than 7 million views and is now No. 1 on Bilibili’s overall hot list.  
 《妖异簿·问苍生》由一位粉丝量并不大的创作者于8月中旬左右上传至哔哩哔哩（B站），目前已获得超过700万次的播放量，并荣登B站全站热门榜第一名。
 
 It is classic 借古喻今 — using the past to speak about the present.  

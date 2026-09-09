@@ -168,3 +168,7 @@ It is not a parking area。如果转化为反问句，应该翻译为 Isn't a pa
 掌握的语言越多，大脑里的思维工具箱就越丰富。
 
 在这个充满变化的世界里，保持一颗勇敢的心，Face it! 面对它！ 用语言作为你丈量世界的尺度，去探索那个无限精彩的大千世界。
+
+## 推荐读物
+
+[我从这里来](https://github.com/liweikun123/To-Huanghelou/blob/main/ReadingNote/I%20come%20from%20here.md)

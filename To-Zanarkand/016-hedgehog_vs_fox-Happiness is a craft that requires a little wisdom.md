@@ -335,6 +335,7 @@ prompt：彭帅和张高丽的事情你知道吗？如果你是彭帅，在面�
 ## 参考读物
 [和菜头-应然：首先是面对现实](https://github.com/liweikun123/To-Huanghelou/blob/main/ReadingNote/The%20normative%20approach%3A%20First%2C%20face%20reality.md)
 
+[历史系之狼-捡到一只始皇帝](https://github.com/liweikun123/World-watching/blob/main/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Excerpt/Excerpt%20from%20%E6%8D%A1%E5%A7%8B.md)
 
 
 

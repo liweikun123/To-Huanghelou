@@ -58,7 +58,7 @@
 
 如果“治”是动词，意思是“去治理”，那么治世就是谓语和宾语，意思是曹操去治理天下。
 
-那么英语会出现这种歧义嘛，我估计是不会的，有词根词缀，我们可以很容易的判断这个词语的词性，比如ing\ous结尾的词，我们很快反应出来是形容词，ion结尾的词，我们默认他就是名词。回到这句话If living in a peaceful era, Cao will be a capable minister.就很好理解，那许邵能直接说大白话嘛？我估计他也是不愿意的，这样就和一个普通人没有区别，不能够体现知识分子“掉书袋”了。
+那么英语会出现这种歧义嘛，我估计是不会的，有词根词缀，我们可以很容易的判断这个词语的词性，比如ing\ous结尾的词，我们很快反应出来是形容词，ion结尾的词，我们默认他就是名词。回到这句话If living in a peaceful era, Cao will be a capable minister.就很好理解，那许邵能直接说大白话嘛？我估计他也是不愿意的，这样就和一个普通人没有区别，不能够体现知识分子“掉书袋”了。或许，还有一种更大的可能，是许邵为了在这个动荡的时代，明哲保身的必须。
 
 If living in a peaceful era, Cao would be a capable minister; if in a chaotic era, a formidable hero.
 

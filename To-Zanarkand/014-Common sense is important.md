@@ -102,3 +102,6 @@
 如何才能处理好多方的关系，实现自己的价值，获得幸福的生活呢？
 
 ——你可能需要更多的智慧，来handle 生活中方方面面的事情。
+
+## 推荐阅读
+[青年大学习：如何租房](https://www.bilibili.com/video/BV1MDA6zHEFE/?spm_id_from=333.1387.upload.video_card.click&vd_source=fe74c2d8bf9dc803c857f3e94e581513)

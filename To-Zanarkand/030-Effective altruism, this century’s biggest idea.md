@@ -48,4 +48,4 @@ EA 追求真理的精神、对逻辑思维的应用以及在预测 AI 快速进�
 ## 推荐阅读
 ⁠[Effective altruism is this century’s biggest idea](https://read.readwise.io/new/read/01m4cfp16awjnsqzkr39a21xhm)
 
-⁠(Will MacAskill responds to our cover story on effective altruism)[https://read.readwise.io/new/read/01m4f4348ykbha0rp5kkbaerma]
+⁠[Will MacAskill responds to our cover story on effective altruism](https://read.readwise.io/new/read/01m4f4348ykbha0rp5kkbaerma)

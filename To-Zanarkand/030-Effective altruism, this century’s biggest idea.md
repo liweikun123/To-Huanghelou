@@ -46,6 +46,6 @@ EA 追求真理的精神、对逻辑思维的应用以及在预测 AI 快速进�
 
 道德多样性与克制：他回应了对 EA “极端功利主义”的指责，主张应该遵循 “道德不确定性”下的决策，即在追求“最大善”的同时，也要尊重基本的道德常识 and 规则（如不撒谎、不作弊），避免为了宏大目标而不择手段。
 ## 推荐阅读
-⁠(《Effective altruism is this century’s biggest idea》)[https://read.readwise.io/new/read/01m4cfp16awjnsqzkr39a21xhm]
+⁠(Effective altruism is this century’s biggest idea)[https://read.readwise.io/new/read/01m4cfp16awjnsqzkr39a21xhm]
 
-⁠(《Will MacAskill responds to our cover story on effective altruism》)[https://read.readwise.io/new/read/01m4f4348ykbha0rp5kkbaerma]
+⁠(Will MacAskill responds to our cover story on effective altruism)[https://read.readwise.io/new/read/01m4f4348ykbha0rp5kkbaerma]

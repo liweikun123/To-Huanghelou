@@ -49,3 +49,11 @@ EA 追求真理的精神、对逻辑思维的应用以及在预测 AI 快速进�
 ⁠[Effective altruism is this century’s biggest idea](https://read.readwise.io/new/read/01m4cfp16awjnsqzkr39a21xhm)
 
 ⁠[Will MacAskill responds to our cover story on effective altruism](https://read.readwise.io/new/read/01m4f4348ykbha0rp5kkbaerma)
+## 同情心
+同情心是人类最原始的本能，是我们心中最柔软的一块地方。
+
+但现实往往是很多人利用人的同情心来牟利。
+
+在支付宝横空出世之前，每个城市都有“丐帮”，常见于地下通道、医院门口。很多丐帮帮主为了让手下的孤儿更好的乞讨，在孤儿小时候就折断他们的手脚，人造残疾。
+
+献爱心的基金会也一点不爱心，红十字会的郭美美、汶川大地震的捐款物资挪用、澳大利亚神秘的杨澜澜、李亚鹏的嫣然天使基金等事情一遍又一遍的刷新人们的认知。

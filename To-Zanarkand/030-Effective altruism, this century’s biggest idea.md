@@ -45,6 +45,9 @@ EA 追求真理的精神、对逻辑思维的应用以及在预测 AI 快速进�
 实际的社会贡献：文章列举了 EA 的实际战果，包括通过 GiveWell 指导了 4.27 亿美元的捐款，通过分发疟疾蚊帐和提供疫苗接种拯救了数以万计的生命。
 
 道德多样性与克制：他回应了对 EA “极端功利主义”的指责，主张应该遵循 “道德不确定性”下的决策，即在追求“最大善”的同时，也要尊重基本的道德常识 and 规则（如不撒谎、不作弊），避免为了宏大目标而不择手段。
+## 反对者意见
+斯坦福大学哲学教授 Leif Wenar 认为 有效利他主义者过于沉迷于数学模型（goulash of mathy jargon） and 宏大声明（asseverations），却在现实世界的复杂性面前显得判断力极差（bad judgment），甚至可能导致灾难性的后果。
+
 ## 推荐阅读
 ⁠[Effective altruism is this century’s biggest idea](https://read.readwise.io/new/read/01m4cfp16awjnsqzkr39a21xhm)
 

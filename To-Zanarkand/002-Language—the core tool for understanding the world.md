@@ -74,9 +74,9 @@ If governing the realm peacefully, Cao would be a capable minister; if bringing 
 
 如果我们使用的是英文，It is not a parking area. 和 Is it a parking area?词语的顺序也会发生变化，词语顺序的信息可以帮助听者进行理解，那么信息传递的准确度会提升。而且不可忽视的是，不管疑问句还是反问句甚至是作为回答的陈述句，英文句式中只要出现了以no、not为代表的否定词，就是表示的否定的意思；反之，只要没出现否定词，这句话就是代表肯定的语气。
 
-It is not a parking area。如果转化为反问句，应该翻译为 Isn't a parking area?
+It is not a parking space。如果转化为反问句，应该翻译为 Isn't a parking space?
 
-这是一个车位，It is a parking area，转化为反问句，才是Is it a parking area?
+这是一个车位，It is a parking space，转化为反问句，才是Is it a parking space?
 
 这样在信息的传递过程当中准确性就能得到进一步提升。
 

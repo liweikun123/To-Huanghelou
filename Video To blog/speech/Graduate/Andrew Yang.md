@@ -1,4 +1,4 @@
-# Ripples, Waves, and the Uncertainty of the Future
+# [Ripples, Waves, and the Uncertainty of the Future](https://www.youtube.com/watch?v=vWvwIaBheM0&t=1s)
 
 **Columbia University Class of 2025 Class Day Address**
 

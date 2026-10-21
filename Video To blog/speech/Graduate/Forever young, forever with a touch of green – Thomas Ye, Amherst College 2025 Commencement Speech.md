@@ -1,4 +1,4 @@
-# Staying Green, Embracing the Pickle, and Building Bridges
+# [Staying Green, Embracing the Pickle, and Building Bridges](https://www.youtube.com/watch?v=hYPFgN_luDo&t=264s)
 
 **Class of 2025 Commencement Address**
 

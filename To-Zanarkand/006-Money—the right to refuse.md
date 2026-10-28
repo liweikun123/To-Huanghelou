@@ -100,3 +100,10 @@
 
 去大大方方的赚属于你的钱，清清白白地守护你的资产。当你掌握了这项底线能力，你才能真正挺直腰板，在《地球Online》这个充满未知的世界里，从从容容地做自己人生的主人。
 
+## 推荐阅读
+
+[为什么中国的富人，总在找退路？](https://www.youtube.com/watch?v=c3XRTFcEBLE&t=731s)
+
+[中国人为什么不消费？答案可能不是“没钱”那么简单](https://www.youtube.com/watch?v=FtzrmeaoRK4&t=5s)
+
+

@@ -1,4 +1,4 @@
-<img width="1448" height="1086" alt="0dcdf7d7d3a7813efe3e4e23d28f484" src="https://github.com/user-attachments/assets/4cb9b1f2-77ec-4453-afa4-9f3789125544" /># 美女
+# 美女
 美女，又称美人、佳丽，即美丽的女性。审美眼光、标准因应个人、文化而有所差异。
 
 “窈窕淑女，君子好逑”，对美人的追求是铭刻在男性DNA中的行为，李宗盛的《凡人歌》中也唱到：多少男子汉，一怒为红颜。

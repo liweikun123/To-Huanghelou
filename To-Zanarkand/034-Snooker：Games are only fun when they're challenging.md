@@ -19,7 +19,9 @@
 
 
 ## 发力和杆速的区别，为什么语言的学习如此重要？
+[Best Timing for Cue Acceleration in Snooker](https://www.bilibili.com/en/video/BV1Sg41187HJ/?buvid=Y0434A00D1A6D2DD4BF187E06D388F89FBAE&from_spmid=main.my-history.0.0&is_story_h5=false&mid=I7aBoGv2L%2FqW6CO30qD4bH8FTQ%2FSZMtL1rElX6M3iMo%3D&plat_id=116&share_from=ugc&share_medium=iphone_i&share_plat=ios&share_session_id=FC7689EA-8758-4871-9A96-2CBCE8E2C1A6&share_source=weixin&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1794904853&unique_k=MRdns7h&up_id=1290946187&vd_source=fe74c2d8bf9dc803c857f3e94e581513)
 
+起源于英国的斯诺克运动，很多的专有名词很难找到精确对应的中文，了解英文原本的意思非常的重要。
 
 ## 斯诺克是一个关于“欺骗”的运动
 
@@ -63,11 +65,17 @@
 所以如果有斯诺克的女性玩家，基本可以肯定，她是一个在生活中专注力极高，有好胜之心的都市独立女性。盲猜白雨露应该是这种类型的女孩子。
 
 世界上知名的斯诺克职业选手Allison Fisher　就是一位女同性恋，看她的结婚照，估计应该是T的角色。猜测，斯诺克是一款适合女同性恋中的T玩的游戏，这个猜测有待后续在生活中验证。
-
 ## 球品见人品
+斯诺克是一个很典型的君子游戏。你碰球犯规了，但对方没有发现；你分数加多/加少了，对方没有发现。这种情况你要不要主动说出，这其实很考验个人的道德水平。
 
+打球是不是要带彩头，是打台费还是赌钱，能看出你是否是一个喜欢赌博的人。
 
+打球的时候是不是说很多话，这游戏一旦开口说话就会让人分心，对手的失误概率就会大大增加。
+
+当你入门一个游戏/行业后，你可以通过细致的观察，来判断对方是一个什么样的人。
 ## 如何寻找合适的压力？
+
+
 
 
 ## 假球与赌博，中国斯诺克之殇

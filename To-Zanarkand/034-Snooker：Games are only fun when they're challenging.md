@@ -13,16 +13,19 @@
 
 后来销品茂5楼开了一个库博桌球房，里面就有很多斯诺克球台，但2007年的88-128元/小时的价格让我意识到，这根本不是当前的我能够负担的起的爱好。
 ## 每一杆球，都不简单
+今天又打丢了一个袋口球，来不及懊悔，然后发现对手也打丢了，只能被迫上场，马上进入下一杆的击球状态。
 
-
+这游戏跟生活一样，每一杆球，都要严谨认真。
 ## 抓杆和送杆，欲速则不达
+新手和高手在这个游戏里面，和容易区分，观察这个人打两三次击球就可以：是否俯身，有无前后停，杆速如何。
 
-
+其中有个很重要的内容，就是如何把球杆“送出去”完成击球，你越想发力，就越容易抓杆，由于人体自身的结构，球杆不可避免的就弯了。要想把球杆出直，找到那种“托住球杆”的感觉十分重要，依靠球杆的惯性，送出去，感受白球对球杆的反馈，自然而然就可以打出斯诺克的“发力”了。
 ## 发力和杆速的区别，为什么语言的学习如此重要？
 [Best Timing for Cue Acceleration in Snooker](https://www.bilibili.com/en/video/BV1Sg41187HJ/?buvid=Y0434A00D1A6D2DD4BF187E06D388F89FBAE&from_spmid=main.my-history.0.0&is_story_h5=false&mid=I7aBoGv2L%2FqW6CO30qD4bH8FTQ%2FSZMtL1rElX6M3iMo%3D&plat_id=116&share_from=ugc&share_medium=iphone_i&share_plat=ios&share_session_id=FC7689EA-8758-4871-9A96-2CBCE8E2C1A6&share_source=weixin&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1794904853&unique_k=MRdns7h&up_id=1290946187&vd_source=fe74c2d8bf9dc803c857f3e94e581513)
 
-起源于英国的斯诺克运动，很多的专有名词很难找到精确对应的中文，了解英文原本的意思非常的重要。
+发力，如果放在斯诺克里面，原意竟然是 Timing the cue.看到这个英文原意，感觉真是豁然开朗，中文翻译固然追求信达雅，但一个单词往往代表多个含义的中文不可避免的会产生歧义。
 
+起源于英国的斯诺克运动，很多的专有名词很难找到精确对应的中文，了解英文原本的意思非常的重要。
 ## 斯诺克是一个关于“欺骗”的运动
 
 

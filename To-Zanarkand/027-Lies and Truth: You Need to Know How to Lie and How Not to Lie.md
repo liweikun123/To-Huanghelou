@@ -2,6 +2,8 @@
 谎言是指虚伪或不实的陈述，常被用以欺骗他人。这种沟通手法常常被称为撒谎或说谎，说谎的人即称为骗子。谎言可被用于获得帮助、人际关系或心理慰藉。
 
 反之就是真话，不欺骗对方。
+
+撒谎——是我们人生中必须学会的基础技能。
 ## 儿童什么时候学会撒谎
 这个演讲讲的很有意思——[《儿童为什么会撒谎？》](https://github.com/liweikun123/To-Huanghelou/blob/main/Video%20To%20blog/speech/YIXI/Li%20Kang%3A%20Why%20do%20children%20lie%3F.md)
 
